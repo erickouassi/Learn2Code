@@ -33,3 +33,7 @@ React - CS50 Beyond 2019
 4/23/2019
 
 React - CS50 Beyond 2019 End
+
+4/26/2019
+
+CSS Handbook downloaded (85 minutes read)
