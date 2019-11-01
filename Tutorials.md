@@ -50,6 +50,8 @@ The great Gatsby bootcamp ( Andrew Mead)
 
 https://nextjs.org
 
+10/31/2019
 
+ES6: Create a Module Script
 
 
